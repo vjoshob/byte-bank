@@ -16,6 +16,5 @@ public class ReferenceTesting2 {
 		System.out.println(diegoAccount.getOwner());
 		System.out.println(diego);
 		
-		
 	}
 }
